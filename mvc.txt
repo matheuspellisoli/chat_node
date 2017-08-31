@@ -1,0 +1,22 @@
+1 criar um diretório
+2 ininciar o npm 
+3 instalar os modulos
+    3.1 express
+    3.2 ejs
+    3.3 consign
+    3.4 body-parser
+    3.5 express-validator
+    3.6 nodemon
+4 criar estrutura de arquivo
+     app.js
+     app    
+        controllers
+        models
+        public
+            css
+            js
+            imagens
+        routes
+        views
+    cofig
+        server.js
